@@ -1,23 +1,66 @@
-<img align="right" width="40%" src="https://www.finos.org/hubfs/FINOS/finos-logo/FINOS_Icon_Wordmark_Name_RGB_horizontal.png">
+[![FINOS - Incubating](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-incubating.svg)](https://community.finos.org/docs/governance/Software-Projects/stages/incubating)
 
-# FINOS Software Project Blueprint
+# InterchangeKit
 
-Project blueprint is a GitHub repository template for all [Fintech Open Source Foundation (FINOS)](https://www.finos.org/) hosted GitHub repositories, contributed and maintained by FINOS.
+Short blurb about what your project does.
 
-## How to use this blueprint
+## Installation
 
-Please follow instructions on [community.finos.org/docs/collaboration-infrastructure#finos-project-blueprint](https://community.finos.org/docs/collaboration-infrastructure#finos-project-blueprint)
+OS X & Linux:
 
-## Blueprint preview
+```sh
+npm install my-crazy-module --save
+```
 
-A preview of the blueprint can be found on [project-blueprint.finos.org](https://project-blueprint.finos.org)
+Windows:
 
-## Governance
-This blueprint implements https://community.finos.org/docs/governance/#open-source-software-projects
+```sh
+edit autoexec.bat
+```
+
+## Usage example
+
+A few motivating and useful examples of how your project can be used. Spice this up with code blocks and potentially screenshots / videos ([LiceCap](https://www.cockos.com/licecap/) is great for this kind of thing).
+
+_For more examples and usage, please refer to the [Wiki][wiki]._
+
+## Development setup
+
+Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+
+```sh
+make install
+npm test
+```
+
+## Roadmap
+
+List the roadmap steps; alternatively link the Confluence Wiki page where the project roadmap is published.
+
+1. Item 1
+2. Item 2
+3. ....
+
+## Contributing
+
+**All commits** must be signed with a DCO signature to avoid being flagged by the DCO Bot. This means that your commit log message must contain a line that looks like the following one, with your actual name and email address:
+
+```
+Signed-off-by: John Doe <john.doe@example.com>
+```
+
+Adding the `-s` flag to your `git commit` will add that line automatically. You can also add it manually as part of your commit log message or add it afterwards with `git commit --amend -s`.
+
+See [CONTRIBUTING.md](./.github/CONTRIBUTING.md) for more information
+
+### Helpful DCO Resources
+- [Git Tools - Signing Your Work](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work)
+- [Signing commits
+](https://docs.github.com/en/github/authenticating-to-github/signing-commits)
 
 ## License
 
-Copyright 2019 Fintech Open Source Foundation
+Copyright 2025 Percona
 
 Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 

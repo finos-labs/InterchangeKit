@@ -1,7 +1,8 @@
-SPDXVersion: SPDX-2.0
+SPDXVersion: SPDX-2.2
 DataLicense: CC0-1.0
-Creator: {name of copyright owner}
-PackageName: {project name}
-PackageOriginator: {name of copyright owner}
-PackageHomePage: https://github.com/finos/{project slug}
+Creator: Organization: Percona
+PackageName: InterchangeKit
+PackageOriginator: Organization: Percona
+PackageHomePage: https://github.com/finos-labs/InterchangeKit
 PackageLicenseDeclared: Apache-2.0
+
