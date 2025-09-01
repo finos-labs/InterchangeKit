@@ -2,44 +2,15 @@
 
 # InterchangeKit
 
-Short blurb about what your project does.
+InterchangeKit is building a memory-safe XML toolkit for use in native binary applications. The first interface exposed for applications will be the libxml2 interface as specified in ISO/IEC 23360-1 (the Linux Standard Base spec).
 
-## Installation
-
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
-
-## Usage example
-
-A few motivating and useful examples of how your project can be used. Spice this up with code blocks and potentially screenshots / videos ([LiceCap](https://www.cockos.com/licecap/) is great for this kind of thing).
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
+InterchangeKit does not currently ship any artefacts. Please see the roadmap items below and the open issues for where to get involved in building the first release.
 
 ## Roadmap
 
-List the roadmap steps; alternatively link the Confluence Wiki page where the project roadmap is published.
-
-1. Item 1
-2. Item 2
-3. ....
+1. The first activity for the project is to collect collaborators. If you are interested in contributing to the project, feel it could be of use to you, or just want to watch how the project progresses, join our #interchange-kit channel on the FINOS Slack
+1. To determine the scope for initial release, build a list of symbols used by open source projects which currently depend on libxml2. 
+1. Analyze the collected data on symbol use to determine the minimal scope for a first release.
 
 ## Contributing
 
@@ -51,7 +22,7 @@ Signed-off-by: John Doe <john.doe@example.com>
 
 Adding the `-s` flag to your `git commit` will add that line automatically. You can also add it manually as part of your commit log message or add it afterwards with `git commit --amend -s`.
 
-See [CONTRIBUTING.md](./.github/CONTRIBUTING.md) for more information
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information
 
 ### Helpful DCO Resources
 - [Git Tools - Signing Your Work](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work)
