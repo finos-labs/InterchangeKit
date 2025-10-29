@@ -1,0 +1,12 @@
+UTF8Toisolat1
+htmlCreatePushParserCtxt
+htmlFreeParserCtxt
+htmlParseChunk
+htmlTagLookup
+xmlBuildURI
+xmlCreatePushParserCtxt
+xmlFree
+xmlFreeParserCtxt
+xmlParseChunk
+xmlParserError
+xmlParserWarning

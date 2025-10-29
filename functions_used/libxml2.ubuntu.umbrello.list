@@ -1,0 +1,10 @@
+xmlCleanupParser
+xmlFreeDoc
+xmlLoadCatalogs
+xmlParseFile
+xmlSubstituteEntitiesDefault
+xsltApplyStylesheet
+xsltCleanupGlobals
+xsltFreeStylesheet
+xsltParseStylesheetFile
+xsltSaveResultToFd

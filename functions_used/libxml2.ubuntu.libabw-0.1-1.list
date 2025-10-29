@@ -1,0 +1,17 @@
+xmlCharStrdup
+xmlFree
+xmlFreeTextReader
+xmlReaderForIO
+xmlStrEqual
+xmlStrlen
+xmlStrncmp
+xmlTextReaderConstName
+xmlTextReaderConstNamespaceUri
+xmlTextReaderConstValue
+xmlTextReaderGetAttribute
+xmlTextReaderGetParserColumnNumber
+xmlTextReaderGetParserLineNumber
+xmlTextReaderIsEmptyElement
+xmlTextReaderNodeType
+xmlTextReaderRead
+xmlTextReaderSetErrorHandler

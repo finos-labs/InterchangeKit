@@ -1,0 +1,4 @@
+xmlCreatePushParserCtxt
+xmlFreeParserCtxt
+xmlGetPredefinedEntity
+xmlParseChunk

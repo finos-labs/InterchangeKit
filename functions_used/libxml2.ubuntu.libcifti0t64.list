@@ -1,0 +1,13 @@
+xmlBufferCreate
+xmlBufferFree
+xmlFreeTextWriter
+xmlNewTextWriterMemory
+xmlTextWriterEndDocument
+xmlTextWriterEndElement
+xmlTextWriterSetIndent
+xmlTextWriterSetIndentString
+xmlTextWriterStartDocument
+xmlTextWriterStartElement
+xmlTextWriterWriteAttribute
+xmlTextWriterWriteElement
+xmlTextWriterWriteString

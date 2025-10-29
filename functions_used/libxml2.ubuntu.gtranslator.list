@@ -1,0 +1,15 @@
+xmlDocGetRootElement
+xmlDocSetRootElement
+xmlFree
+xmlFreeDoc
+xmlHasProp
+xmlKeepBlanksDefault
+xmlNewChild
+xmlNewDoc
+xmlNewDocNode
+xmlNewTextChild
+xmlNodeGetContent
+xmlParseFile
+xmlSaveFormatFile
+xmlSetProp
+xmlStrcmp

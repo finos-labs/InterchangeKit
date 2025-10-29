@@ -1,0 +1,9 @@
+xmlDocDumpFormatMemory
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlFreeDocxmlDocDumpFormatMemory
+xmlFreeNode
+xmlReadMemory
+xmlSetProp
+xmlUnlinkNode

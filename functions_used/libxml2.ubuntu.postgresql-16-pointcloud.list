@@ -1,0 +1,12 @@
+xmlCleanupParser
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlGetProp
+xmlInitParser
+xmlReadMemory
+xmlXPathEvalExpression
+xmlXPathFreeContext
+xmlXPathFreeObject
+xmlXPathNewContext
+xmlXPathRegisterNs

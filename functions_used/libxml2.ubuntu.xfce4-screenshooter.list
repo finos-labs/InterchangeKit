@@ -1,0 +1,6 @@
+xmlDocGetRootElement
+xmlFreeDoc
+xmlFreeDocxmlNodeGetContent
+xmlNodeGetContent
+xmlParseMemory
+xmlStrEqual

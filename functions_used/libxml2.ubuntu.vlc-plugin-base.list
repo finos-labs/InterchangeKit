@@ -1,0 +1,16 @@
+xmlCatalogAdd
+xmlFreeTextReader
+xmlHasFeature
+xmlInitParser
+xmlInitializeCatalog
+xmlLoadCatalog
+xmlReaderForIO
+xmlTextReaderConstName
+xmlTextReaderConstValue
+xmlTextReaderIsEmptyElement
+xmlTextReaderLocatorLineNumber
+xmlTextReaderMoveToNextAttribute
+xmlTextReaderNodeType
+xmlTextReaderRead
+xmlTextReaderSetErrorHandler
+xmlTextReaderSetParserProp

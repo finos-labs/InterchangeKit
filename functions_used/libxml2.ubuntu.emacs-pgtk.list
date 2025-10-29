@@ -1,0 +1,6 @@
+htmlReadMemory
+xmlCheckVersion
+xmlCleanupParser
+xmlDocGetRootElement
+xmlFreeDoc
+xmlReadMemory

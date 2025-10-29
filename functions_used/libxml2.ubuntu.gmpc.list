@@ -1,0 +1,10 @@
+initGenericErrorDefaultFunc
+xmlCleanupParser
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlGetProp
+xmlInitParser
+xmlNodeGetContent
+xmlParseMemory
+xmlStrEqual

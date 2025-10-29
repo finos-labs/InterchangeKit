@@ -1,0 +1,16 @@
+xmlBufferContent
+xmlBufferCreate
+xmlBufferFree
+xmlCheckVersion
+xmlCopyNode
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlFreeNode
+xmlGetProp
+xmlMalloc
+xmlMemSetup
+xmlNodeDump
+xmlNodeListGetString
+xmlReadMemory
+xmlStrcmp

@@ -1,0 +1,16 @@
+xmlCleanupParser
+xmlDocGetRootElement
+xmlFree
+xmlFreeTextReader
+xmlReadFile
+xmlReaderForFile
+xmlStrEqual
+xmlStrcmp
+xmlStrlen
+xmlTextReaderConstName
+xmlTextReaderConstValue
+xmlTextReaderGetAttribute
+xmlTextReaderGetParserLineNumber
+xmlTextReaderIsEmptyElement
+xmlTextReaderNodeType
+xmlTextReaderRead

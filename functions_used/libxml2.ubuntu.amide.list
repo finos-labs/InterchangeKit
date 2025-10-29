@@ -1,0 +1,11 @@
+xmlDocDump
+xmlDocGetRootElement
+xmlFreeDoc
+xmlNewChild
+xmlNewDoc
+xmlNewDocNode
+xmlNodeGetContent
+xmlParseFile
+xmlParseMemory
+xmlSaveFile
+xmlStrcmp

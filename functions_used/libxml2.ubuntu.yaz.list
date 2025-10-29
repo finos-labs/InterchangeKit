@@ -1,0 +1,14 @@
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlFreeDocxmlParseFile
+xmlFreeTextReader
+xmlFreexmlDocDumpFormatMemory
+xmlKeepBlanksDefault
+xmlParseMemory
+xmlReaderForFile
+xmlSAXUserParseFile
+xmlTextReaderExpand
+xmlTextReaderLocalName
+xmlTextReaderNodeType
+xmlTextReaderRead

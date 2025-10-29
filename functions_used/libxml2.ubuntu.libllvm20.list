@@ -1,0 +1,16 @@
+xmlAddChild
+xmlCopyNamespace
+xmlDocDumpFormatMemoryEnc
+xmlDocGetRootElement
+xmlDocSetRootElement
+xmlFree
+xmlFreeDoc
+xmlFreeNode
+xmlFreeNs
+xmlNewDoc
+xmlNewNs
+xmlNewProp
+xmlReadMemory
+xmlSetGenericErrorFunc
+xmlStrdup
+xmlUnlinkNode
