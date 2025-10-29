@@ -1,0 +1,13 @@
+xmlFreeDoc
+xmlFreeTextWriter
+xmlNewTextWriterDoc
+xmlSaveClose
+xmlSaveDoc
+xmlSaveToFd
+xmlTextWriterEndDocument
+xmlTextWriterEndElement
+xmlTextWriterSetIndent
+xmlTextWriterSetIndentString
+xmlTextWriterStartDocument
+xmlTextWriterStartElement
+xmlTextWriterWriteElement

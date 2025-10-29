@@ -1,0 +1,5 @@
+xmlDocGetRootElement
+xmlFreeDocxmlFirstElementChild
+xmlGetProp
+xmlNodeGetContent
+xmlReadMemory

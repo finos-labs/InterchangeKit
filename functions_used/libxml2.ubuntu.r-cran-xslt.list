@@ -1,0 +1,11 @@
+xmlCheckVersion
+xmlCopyDoc
+xmlFreeDoc
+xmlInitParser
+xmlSetStructuredErrorFunc
+xsltApplyStylesheet
+xsltCleanupGlobals
+xsltInit
+xsltParseStylesheetDoc
+xsltSaveResultToString
+xsltSetGenericErrorFunc

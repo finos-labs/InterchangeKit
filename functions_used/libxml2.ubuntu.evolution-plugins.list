@@ -1,0 +1,12 @@
+xmlBufferContent
+xmlBufferCreate
+xmlBufferFree
+xmlBufferLength
+xmlFreeDoc
+xmlFreeDocxmlDocGetRootElement
+xmlNewChild
+xmlNewDoc
+xmlNewDocNode
+xmlNodeDump
+xmlParseFile
+xmlSetProp

@@ -1,0 +1,7 @@
+xmlFree
+xmlMalloc
+xmlNodeAddContent
+xmlNodeSetContent
+xmlStrdup
+xmlStrlen
+xmlStrstr

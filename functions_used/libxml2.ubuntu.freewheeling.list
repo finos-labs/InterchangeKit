@@ -1,0 +1,15 @@
+xmlCleanupParser
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlGetProp
+xmlNewChild
+xmlNewDoc
+xmlNewDocNode
+xmlParseFile
+xmlSaveFormatFile
+xmlSetProp
+xmlStrchr
+xmlStrcmp
+xmlStrlen
+xmlSubstituteEntitiesDefault

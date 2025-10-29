@@ -1,0 +1,6 @@
+xmlCreatePushParserCtxt
+xmlCtxtGetLastError
+xmlFreeParserCtxtxmlSAXUserParseMemory
+xmlFreeParserCtxtxmlStrcmp
+xmlParseChunk
+xmlStrcmp

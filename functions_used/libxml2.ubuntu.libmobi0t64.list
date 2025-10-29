@@ -1,0 +1,16 @@
+xmlBufferCreate
+xmlBufferFree
+xmlCheckVersion
+xmlCleanupParser
+xmlFreeTextWriter
+xmlNewTextWriterMemory
+xmlTextWriterEndDocument
+xmlTextWriterEndElement
+xmlTextWriterSetIndent
+xmlTextWriterStartDocument
+xmlTextWriterStartElement
+xmlTextWriterStartElementNS
+xmlTextWriterWriteAttribute
+xmlTextWriterWriteAttributeNS
+xmlTextWriterWriteElementNS
+xmlTextWriterWriteString

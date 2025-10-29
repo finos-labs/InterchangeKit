@@ -1,0 +1,11 @@
+xmlCheckVersion
+xmlFree
+xmlFreeDoc
+xmlNodeGetContent
+xmlReadDoc
+xmlReadFile
+xmlXPathEvalExpression
+xmlXPathFreeContext
+xmlXPathFreeObject
+xmlXPathNewContext
+xmlXPathRegisterNs

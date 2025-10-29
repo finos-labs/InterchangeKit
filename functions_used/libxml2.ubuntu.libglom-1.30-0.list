@@ -1,0 +1,7 @@
+xmlDocDumpFormatMemoryEnc
+xmlFree
+xmlFreeDoc
+xmlReadDoc
+xsltApplyStylesheet
+xsltFreeStylesheet
+xsltParseStylesheetDoc

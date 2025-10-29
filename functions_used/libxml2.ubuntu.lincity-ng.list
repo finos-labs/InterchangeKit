@@ -1,0 +1,13 @@
+xmlCleanupParser
+xmlFreeTextReader
+xmlInitParser
+xmlReaderForIO
+xmlTextReaderConstName
+xmlTextReaderConstValue
+xmlTextReaderDepth
+xmlTextReaderMoveToElement
+xmlTextReaderMoveToFirstAttribute
+xmlTextReaderMoveToNextAttribute
+xmlTextReaderNext
+xmlTextReaderNodeType
+xmlTextReaderRead

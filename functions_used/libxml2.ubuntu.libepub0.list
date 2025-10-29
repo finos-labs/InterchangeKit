@@ -1,0 +1,16 @@
+xmlCheckVersion
+xmlCleanupParser
+xmlFreeTextReader
+xmlReaderForMemory
+xmlStrPrintf
+xmlStrcasecmp
+xmlStrcmp
+xmlStrdup
+xmlTextReaderConstLocalName
+xmlTextReaderConstName
+xmlTextReaderGetAttribute
+xmlTextReaderGetAttributeNs
+xmlTextReaderLookupNamespace
+xmlTextReaderNodeType
+xmlTextReaderRead
+xmlTextReaderReadString

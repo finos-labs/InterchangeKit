@@ -1,0 +1,6 @@
+xmlTextWriterEndElement
+xmlTextWriterEndElementxmlTextWriterStartElement
+xmlTextWriterStartElement
+xmlTextWriterWriteAttribute
+xmlTextWriterWriteFormatString
+xmlTextWriterWriteString

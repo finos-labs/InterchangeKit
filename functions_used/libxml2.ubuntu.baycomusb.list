@@ -1,0 +1,3 @@
+xmlFreeDoc
+xmlGetProp
+xmlParseFile

@@ -1,0 +1,7 @@
+xmlGetNoNsProp
+xmlGetNsProp
+xmlNewChild
+xmlNewNsProp
+xmlNewProp
+xmlNodeSetContent
+xmlSearchNs

@@ -1,0 +1,3 @@
+xmlFreeDoc
+xmlReadFile
+xmlReadMemory

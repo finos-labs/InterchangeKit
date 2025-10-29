@@ -1,0 +1,10 @@
+xmlDocSetRootElement
+xmlFreeDoc
+xmlKeepBlanksDefault
+xmlNewChild
+xmlNewDoc
+xmlNewDocNode
+xmlNewTextChild
+xmlSAXUserParseFile
+xmlSaveFormatFileEnc
+xmlStrcmp

@@ -1,0 +1,10 @@
+htmlReadMemory
+xmlDocDumpFormatMemory
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlGetProp
+xmlNodeGetContent
+xmlReadMemory
+xmlRecoverMemory
+xmlSetProp
