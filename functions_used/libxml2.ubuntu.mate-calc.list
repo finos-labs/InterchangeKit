@@ -1,0 +1,11 @@
+xmlCleanupParser
+xmlFree
+xmlFreeDoc
+xmlInitParser
+xmlNodeGetContent
+xmlReadFile
+xmlXPathEvalExpression
+xmlXPathFreeContext
+xmlXPathFreeObject
+xmlXPathNewContext
+xmlXPathRegisterNs

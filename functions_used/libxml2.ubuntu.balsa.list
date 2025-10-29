@@ -1,0 +1,13 @@
+xmlCheckVersionxmlNewProp
+xmlDocGetRootElement
+xmlDocSetRootElement
+xmlFreeDoc
+xmlFreeNode
+xmlNewChild
+xmlNewDoc
+xmlNewDocNode
+xmlNewProp
+xmlParseFile
+xmlSaveFormatFileEnc
+xmlStrcmp
+xmlUnlinkNode

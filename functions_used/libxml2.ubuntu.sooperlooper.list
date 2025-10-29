@@ -1,0 +1,14 @@
+xmlDocDumpMemory
+xmlDocGetRootElement
+xmlDocGetRootElementxmlNewDoc
+xmlFreeDoc
+xmlKeepBlanksDefault
+xmlNewChild
+xmlNewDoc
+xmlNewDocNode
+xmlNodeSetContentLen
+xmlParseFile
+xmlParseMemory
+xmlSaveFormatFile
+xmlSetDocCompressMode
+xmlSetProp

@@ -1,0 +1,12 @@
+xmlAddChild
+xmlCopyNode
+xmlDocGetRootElement
+xmlDocSetRootElement
+xmlFreeDocxmlFreeDoc
+xmlFreeDocxmlReadMemory
+xmlGetProp
+xmlNewChild
+xmlNewDoc
+xmlNewNode
+xmlNewProp
+xmlStrcmp

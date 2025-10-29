@@ -1,0 +1,16 @@
+xmlCheckVersion
+xmlCleanupParser
+xmlDocGetRootElement
+xmlDocSetRootElement
+xmlFree
+xmlFreeDoc
+xmlGetProp
+xmlNewChild
+xmlNewDoc
+xmlNewNode
+xmlNewProp
+xmlNewTextChild
+xmlNodeListGetString
+xmlReadFile
+xmlSaveFormatFileEnc
+xmlStrcmp

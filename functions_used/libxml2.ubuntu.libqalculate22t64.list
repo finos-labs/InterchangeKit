@@ -1,0 +1,16 @@
+xmlDocDumpMemory
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlGetProp
+xmlHasProp
+xmlNewDoc
+xmlNewDocNode
+xmlNewProp
+xmlNewTextChild
+xmlNodeGetLang
+xmlNodeListGetString
+xmlParseFile
+xmlParseMemory
+xmlSaveFormatFile
+xmlStrcmp

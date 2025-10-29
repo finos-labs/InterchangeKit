@@ -1,0 +1,3 @@
+xmlGetLastError
+xmlRelaxNGValidateDoc
+xmlResetLastError

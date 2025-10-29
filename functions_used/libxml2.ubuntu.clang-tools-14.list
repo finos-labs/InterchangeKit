@@ -1,0 +1,11 @@
+xmlCheckVersion
+xmlFreeDoc
+xmlGetLastError
+xmlParseDoc
+xmlRelaxNGFree
+xmlRelaxNGFreeParserCtxt
+xmlRelaxNGFreeValidCtxt
+xmlRelaxNGNewParserCtxt
+xmlRelaxNGNewValidCtxt
+xmlRelaxNGParse
+xmlRelaxNGValidateDoc

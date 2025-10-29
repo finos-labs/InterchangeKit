@@ -1,0 +1,7 @@
+xmlFree
+xmlFreeDoc
+xmlGetProp
+xmlIsBlankNode
+xmlNodeGetContent
+xmlParseFile
+xmlSearchNsByHref

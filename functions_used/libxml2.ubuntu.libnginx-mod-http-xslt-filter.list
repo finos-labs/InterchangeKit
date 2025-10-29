@@ -1,0 +1,17 @@
+xmlCleanupParser
+xmlCreatePushParserCtxt
+xmlCtxtUseOptions
+xmlFreeDoc
+xmlFreeDtd
+xmlFreeParserCtxt
+xmlInitParser
+xmlParseChunk
+xmlParseDTD
+xsltApplyStylesheetUser
+xsltCleanupGlobals
+xsltFreeStylesheet
+xsltFreeTransformContext
+xsltNewTransformContext
+xsltParseStylesheetFile
+xsltQuoteOneUserParam
+xsltSaveResultToString

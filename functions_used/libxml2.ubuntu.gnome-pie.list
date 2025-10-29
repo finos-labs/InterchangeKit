@@ -1,0 +1,13 @@
+xmlCleanupParser
+xmlDocGetRootElement
+xmlFreeDoc
+xmlFreeTextWriter
+xmlInitParser
+xmlNewTextWriterFilename
+xmlParseFile
+xmlTextWriterEndDocument
+xmlTextWriterEndElement
+xmlTextWriterSetIndent
+xmlTextWriterStartDocument
+xmlTextWriterStartElement
+xmlTextWriterWriteAttribute

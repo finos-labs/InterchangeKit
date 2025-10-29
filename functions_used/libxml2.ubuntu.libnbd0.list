@@ -1,0 +1,4 @@
+xmlFreeURI
+xmlParseURI
+xmlSaveUri
+xmlURIUnescapeString

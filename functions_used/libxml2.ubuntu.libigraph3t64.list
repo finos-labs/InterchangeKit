@@ -1,0 +1,13 @@
+xmlCreatePushParserCtxt
+xmlCtxtUseOptions
+xmlFree
+xmlFreeDoc
+xmlFreeParserCtxt
+xmlGetPredefinedEntity
+xmlInitParser
+xmlParseChunk
+xmlSetGenericErrorFunc
+xmlSetStructuredErrorFunc
+xmlStrEqual
+xmlStrncmp
+xmlStrndup

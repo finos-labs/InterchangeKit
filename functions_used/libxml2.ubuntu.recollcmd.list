@@ -1,0 +1,11 @@
+xmlCreatePushParserCtxt
+xmlFree
+xmlFreeDoc
+xmlFreeParserCtxt
+xmlGetLastError
+xmlParseChunk
+xmlSubstituteEntitiesDefault
+xsltApplyStylesheet
+xsltFreeStylesheet
+xsltParseStylesheetDoc
+xsltSaveResultToString

@@ -1,0 +1,11 @@
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlFreexmlNodeListGetString
+xmlGetLineNo
+xmlLineNumbersDefault
+xmlNodeListGetString
+xmlParseFile
+xmlStrcasecmp
+xmlStrcmp
+xmlStrdup

@@ -1,0 +1,7 @@
+xmlDocGetRootElement
+xmlFree
+xmlFreeDocxmlFreexmlFree
+xmlIsBlankNode
+xmlNodeGetContent
+xmlReadMemory
+xmlStrcmp

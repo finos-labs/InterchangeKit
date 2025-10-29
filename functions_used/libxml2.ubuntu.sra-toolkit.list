@@ -1,0 +1,11 @@
+xmlCleanupParser
+xmlFreeDoc
+xmlInitParser
+xmlParseMemory
+xmlParseMemoryxmlXPathFreeObject
+xmlSetGenericErrorFunc
+xmlStrcmp
+xmlXPathEvalExpression
+xmlXPathFreeContext
+xmlXPathFreeObject
+xmlXPathNewContext

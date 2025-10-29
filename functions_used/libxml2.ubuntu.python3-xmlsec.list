@@ -1,0 +1,14 @@
+xmlAddID
+xmlCharStrdup
+xmlDocCopyNode
+xmlDocGetRootElement
+xmlFree
+xmlFreeNode
+xmlGetID
+xmlGetProp
+xmlHasNsProp
+xmlHasProp
+xmlMalloc
+xmlNodeListGetString
+xmlStrEqual
+xmlStrdup

@@ -1,0 +1,10 @@
+xmlCtxtReadFd
+xmlFreeDoc
+xmlFreeDtd
+xmlFreeParserCtxt
+xmlFreeValidCtxt
+xmlIOParseDTD
+xmlNewParserCtxt
+xmlNewValidCtxt
+xmlParserInputBufferCreateMem
+xmlValidateDtd

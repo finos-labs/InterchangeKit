@@ -1,0 +1,15 @@
+xmlAllocOutputBuffer
+xmlCreateIOParserCtxt
+xmlCreatePushParserCtxt
+xmlFindCharEncodingHandler
+xmlFree
+xmlFreeParserCtxt
+xmlGetPredefinedEntity
+xmlNanoHTTPClose
+xmlNanoHTTPContentLength
+xmlNanoHTTPOpen
+xmlNanoHTTPRead
+xmlParseCharEncoding
+xmlParseChunk
+xmlParseDocument
+xmlSaveFormatFileTo

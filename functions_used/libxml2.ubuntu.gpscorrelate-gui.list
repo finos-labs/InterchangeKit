@@ -1,0 +1,5 @@
+xmlCheckVersion
+xmlCleanupParser
+xmlDocGetRootElement
+xmlFreeDoc
+xmlParseFile

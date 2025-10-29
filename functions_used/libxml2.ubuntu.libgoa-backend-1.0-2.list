@@ -1,0 +1,14 @@
+xmlAllocOutputBuffer
+xmlDocGetRootElement
+xmlDocSetRootElement
+xmlFreeDoc
+xmlNewChild
+xmlNewDoc
+xmlNewDocNode
+xmlNewNs
+xmlNodeDumpOutput
+xmlOutputBufferClose
+xmlOutputBufferFlush
+xmlOutputBufferGetContent
+xmlOutputBufferGetSize
+xmlReadMemory

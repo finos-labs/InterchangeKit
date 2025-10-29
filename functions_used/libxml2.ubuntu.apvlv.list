@@ -1,0 +1,9 @@
+xmlFreeDoc
+xmlReadMemory
+xmlXPathEvalExpression
+xmlXPathFreeContext
+xmlXPathFreeNodeSet
+xmlXPathFreeNodeSetList
+xmlXPathFreeObject
+xmlXPathNewContext
+xmlXPathRegisterNs

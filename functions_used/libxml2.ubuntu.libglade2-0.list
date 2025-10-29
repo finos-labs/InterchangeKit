@@ -1,0 +1,13 @@
+xmlAddChild
+xmlCreateIntSubset
+xmlDocSetRootElement
+xmlFreeDoc
+xmlGetPredefinedEntity
+xmlNewDoc
+xmlNewNode
+xmlNodeAddContent
+xmlNodeSetContent
+xmlSAXUserParseFile
+xmlSAXUserParseMemory
+xmlSaveFileEnc
+xmlSetProp
