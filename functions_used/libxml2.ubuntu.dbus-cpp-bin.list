@@ -1,7 +1,0 @@
-xmlFreeTextReader
-xmlReaderForFile
-xmlTextReaderConstName
-xmlTextReaderGetAttribute
-xmlTextReaderIsEmptyElement
-xmlTextReaderNodeType
-xmlTextReaderRead

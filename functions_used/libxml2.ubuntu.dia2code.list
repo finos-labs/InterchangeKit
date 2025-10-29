@@ -1,5 +1,0 @@
-xmlCheckVersion
-xmlGetProp
-xmlKeepBlanksDefault
-xmlNodeGetContent
-xmlParseFile

@@ -1,7 +1,0 @@
-xmlCleanupParser
-xmlDocGetRootElement
-xmlFreeDoc
-xmlGetLastError
-xmlInitParser
-xmlReadMemory
-xmlResetLastError

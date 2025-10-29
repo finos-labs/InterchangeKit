@@ -1,9 +1,0 @@
-xmlCharStrdup
-xmlDocGetRootElement
-xmlFree
-xmlFreeDoc
-xmlGetProp
-xmlNextElementSibling
-xmlNodeGetContent
-xmlParseFile
-xmlStrcmp

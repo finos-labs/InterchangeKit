@@ -1,7 +1,0 @@
-xmlCheckVersion
-xmlCleanupParser
-xmlDocGetRootElement
-xmlFreeDoc
-xmlMemoryDump
-xmlReadFile
-xmlReadMemory

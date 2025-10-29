@@ -1,6 +1,0 @@
-xmlDocGetRootElement
-xmlFreeDoc
-xmlGetProp
-xmlParseDTD
-xmlParseDoc
-xmlValidateDtd

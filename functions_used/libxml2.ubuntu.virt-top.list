@@ -1,7 +1,0 @@
-xmlFreeDoc
-xmlNodeListGetString
-xmlReadMemory
-xmlXPathEvalExpression
-xmlXPathFreeContext
-xmlXPathFreeObject
-xmlXPathNewContext

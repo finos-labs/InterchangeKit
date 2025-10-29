@@ -1,6 +1,0 @@
-xmlCleanupGlobals
-xmlDocGetRootElement
-xmlFreeDoc
-xmlInitGlobals
-xmlParseFile
-xmlStrcmp

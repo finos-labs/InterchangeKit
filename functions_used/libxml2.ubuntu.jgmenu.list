@@ -1,9 +1,0 @@
-xmlCheckVersion
-xmlCleanupParser
-xmlDocGetRootElement
-xmlFree
-xmlFreeDoc
-xmlGetProp
-xmlNodeGetContent
-xmlParseMemoryxmlNodeGetContent
-xmlReadFile

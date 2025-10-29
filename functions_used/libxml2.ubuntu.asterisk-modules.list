@@ -1,4 +1,0 @@
-xmlFree
-xmlSAXUserParseMemory
-xmlStrcmp
-xmlStrndup

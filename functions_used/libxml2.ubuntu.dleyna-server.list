@@ -1,5 +1,0 @@
-xmlDocGetRootElement
-xmlFree
-xmlFreeDoc
-xmlNodeGetContent
-xmlParseMemory

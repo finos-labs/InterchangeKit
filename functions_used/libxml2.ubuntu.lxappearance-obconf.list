@@ -1,8 +1,0 @@
-xmlCharStrdup
-xmlFreeDoc
-xmlFreeNode
-xmlGetLastError
-xmlNewProp
-xmlNewTextChild
-xmlNodeSetContent
-xmlUnlinkNode

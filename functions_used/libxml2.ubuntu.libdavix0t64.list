@@ -1,5 +1,0 @@
-xmlCreatePushParserCtxt
-xmlCtxtUseOptions
-xmlFreeParserCtxt
-xmlInitParser
-xmlParseChunk

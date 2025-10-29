@@ -1,9 +1,0 @@
-xmlCheckVersion
-xmlDocGetRootElement
-xmlFreeDoc
-xmlInitParser
-xmlIsBlankNode
-xmlKeepBlanksDefault
-xmlNodeGetContent
-xmlParseFile
-xmlStrcmp

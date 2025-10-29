@@ -1,8 +1,0 @@
-initGenericErrorDefaultFunc
-xmlDocGetRootElement
-xmlFree
-xmlFreeDoc
-xmlGetProp
-xmlNodeGetContent
-xmlParseMemory
-xmlStrEqual

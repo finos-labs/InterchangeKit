@@ -1,6 +1,0 @@
-xmlCleanupParser
-xmlDocGetRootElement
-xmlFree
-xmlGetProp
-xmlReadMemory
-xmlStrcasecmp

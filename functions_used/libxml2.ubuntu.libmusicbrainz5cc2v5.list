@@ -1,6 +1,0 @@
-xmlDocGetRootElement
-xmlFreeDoc
-xmlGetLastError
-xmlNodeIsText
-xmlParseFile
-xmlParseMemory

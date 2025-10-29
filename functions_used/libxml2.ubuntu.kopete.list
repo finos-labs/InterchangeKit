@@ -1,9 +1,0 @@
-xmlCleanupParser
-xmlFreeDoc
-xmlParseFile
-xmlSubstituteEntitiesDefault
-xsltApplyStylesheet
-xsltCleanupGlobals
-xsltFreeStylesheet
-xsltParseStylesheetFile
-xsltSaveResultToFd

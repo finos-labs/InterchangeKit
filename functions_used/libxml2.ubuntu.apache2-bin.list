@@ -1,9 +1,0 @@
-htmlAttrAllowed
-htmlCreatePushParserCtxt
-htmlFreeParserCtxt
-htmlParseChunk
-xmlAddEncodingAliashtmlTagLookup
-xmlCtxtUseOptions
-xmlDetectCharEncoding
-xmlGetCharEncodingName
-xmlParseCharEncoding

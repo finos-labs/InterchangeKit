@@ -1,7 +1,0 @@
-xmlBufferContent
-xmlBufferCreate
-xmlBufferCreatexmlSaveClose
-xmlBufferFree
-xmlSaveClose
-xmlSaveToBuffer
-xmlSaveTree

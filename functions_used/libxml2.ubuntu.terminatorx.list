@@ -1,8 +1,0 @@
-UTF8Toisolat1
-isolat1ToUTF8
-xmlDocGetRootElement
-xmlFreeDoc
-xmlGetProp
-xmlNodeListGetString
-xmlParseFile
-xmlStrcmp

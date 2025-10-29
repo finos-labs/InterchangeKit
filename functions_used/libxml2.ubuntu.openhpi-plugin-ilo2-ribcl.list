@@ -1,6 +1,0 @@
-xmlDocGetRootElement
-xmlFree
-xmlFreeDoc
-xmlGetProp
-xmlParseMemory
-xmlStrcmp

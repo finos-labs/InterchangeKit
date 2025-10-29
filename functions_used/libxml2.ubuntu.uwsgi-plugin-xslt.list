@@ -1,9 +1,0 @@
-xmlFree
-xmlFreeDoc
-xmlParseFile
-xmlReadMemory
-xmlSubstituteEntitiesDefault
-xsltApplyStylesheet
-xsltFreeStylesheet
-xsltParseStylesheetFile
-xsltSaveResultToString

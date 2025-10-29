@@ -1,4 +1,0 @@
-xmlDocGetRootElement
-xmlFreeDoc
-xmlReadMemory
-xmlSetGenericErrorFunc

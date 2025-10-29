@@ -1,6 +1,0 @@
-xmlDocDumpFormatMemoryEnc
-xmlFreeDoc
-xmlParseDoc
-xsltApplyStylesheet
-xsltFreeStylesheet
-xsltParseStylesheetDoc

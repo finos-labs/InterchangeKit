@@ -1,7 +1,0 @@
-xmlDocDumpFormatMemory
-xmlDocGetRootElement
-xmlFree
-xmlFreeDoc
-xmlNewChild
-xmlNodeSetContent
-xmlReadMemory

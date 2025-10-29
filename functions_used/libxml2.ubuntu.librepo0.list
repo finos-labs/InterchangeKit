@@ -1,5 +1,0 @@
-xmlCreatePushParserCtxt
-xmlCtxtGetLastError
-xmlFreeParserCtxt
-xmlParseChunk
-xmlSAX2GetLineNumber

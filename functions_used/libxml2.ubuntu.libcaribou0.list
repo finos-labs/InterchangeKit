@@ -1,4 +1,0 @@
-xmlCleanupParser
-xmlFreeDoc
-xmlGetProp
-xmlParseFile

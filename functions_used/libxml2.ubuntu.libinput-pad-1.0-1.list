@@ -1,6 +1,0 @@
-xmlCleanupParser
-xmlDocGetRootElement
-xmlFreeDoc
-xmlInitParser
-xmlParseFile
-xmlSubstituteEntitiesDefault

@@ -1,4 +1,0 @@
-xmlCleanupParser
-xmlDocGetRootElement
-xmlFreeDoc
-xmlReadDoc

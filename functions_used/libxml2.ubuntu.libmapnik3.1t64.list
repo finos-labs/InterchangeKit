@@ -1,9 +1,0 @@
-xmlCheckVersion
-xmlCtxtGetLastError
-xmlCtxtReadFile
-xmlCtxtReadMemory
-xmlDocGetRootElement
-xmlFreeDoc
-xmlFreeParserCtxt
-xmlNewParserCtxt
-xmlXIncludeProcessFlags

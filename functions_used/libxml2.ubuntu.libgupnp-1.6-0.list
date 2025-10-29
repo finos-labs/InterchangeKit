@@ -1,7 +1,0 @@
-xmlDocGetRootElement
-xmlFree
-xmlFreeDoc
-xmlIsBlankNode
-xmlNodeGetContent
-xmlReadFile
-xmlReadMemory

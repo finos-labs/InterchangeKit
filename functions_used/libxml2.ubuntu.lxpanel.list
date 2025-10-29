@@ -1,9 +1,0 @@
-xmlDocGetRootElement
-xmlFree
-xmlFreeDoc
-xmlGetProp
-xmlInitParser
-xmlNodeListGetString
-xmlReadMemory
-xmlStrEqual
-xmlURIEscapeStr

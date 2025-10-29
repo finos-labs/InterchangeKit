@@ -1,7 +1,0 @@
-htmlReadDoc
-xmlDocGetRootElement
-xmlFreeDoc
-xmlFreeDocxmlNodeGetContent
-xmlGetProp
-xmlParseFile
-xmlParseMemory

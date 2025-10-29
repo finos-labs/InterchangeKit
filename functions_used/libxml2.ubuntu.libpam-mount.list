@@ -1,4 +1,0 @@
-xmlDocGetRootElement
-xmlFreeDoc
-xmlGetProp
-xmlParseFile

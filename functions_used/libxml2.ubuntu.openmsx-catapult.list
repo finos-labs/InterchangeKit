@@ -1,4 +1,0 @@
-xmlCreatePushParserCtxt
-xmlEncodeEntitiesReentrant
-xmlFree
-xmlParseChunk

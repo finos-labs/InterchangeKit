@@ -1,8 +1,0 @@
-xmlAddChild
-xmlFirstElementChild
-xmlFree
-xmlGetProp
-xmlNewProp
-xmlNewText
-xmlNextElementSibling
-xmlStrcmp

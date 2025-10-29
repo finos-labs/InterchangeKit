@@ -1,8 +1,0 @@
-xmlCreatePushParserCtxt
-xmlCtxtResetPush
-xmlFreeParserCtxt
-xmlGetLastError
-xmlGetPredefinedEntity
-xmlParseChunk
-xmlSAX2GetColumnNumber
-xmlSAX2GetLineNumber
