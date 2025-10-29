@@ -1,0 +1,7 @@
+inputPop
+xmlCreatePushParserCtxt
+xmlFreeInputStream
+xmlFreeParserCtxt
+xmlParseChunk
+xmlSetExternalEntityLoader
+xmlStopParser

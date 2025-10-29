@@ -1,0 +1,8 @@
+xmlCharStrdup
+xmlDocGetRootElement
+xmlFirstElementChild
+xmlFreeDoc
+xmlNextElementSibling
+xmlNodeGetContent
+xmlReadMemory
+xmlStrEqual

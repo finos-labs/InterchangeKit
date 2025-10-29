@@ -1,0 +1,9 @@
+xmlCheckVersion
+xmlCheckVersionxmlStrncmp
+xmlCleanupParserxmlCheckVersion
+xmlCleanupParserxmlCleanupParser
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlNodeGetContent
+xmlReadFile

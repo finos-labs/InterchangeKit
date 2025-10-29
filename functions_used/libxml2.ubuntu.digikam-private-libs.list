@@ -1,0 +1,16 @@
+xmlCleanupParser
+xmlFreeDoc
+xmlFreeTextWriter
+xmlNewTextWriterFilename
+xmlParseFile
+xmlTextWriterEndElement
+xmlTextWriterSetIndent
+xmlTextWriterStartDocument
+xmlTextWriterStartElement
+xmlTextWriterWriteAttribute
+xmlTextWriterWriteElement
+xsltApplyStylesheet
+xsltCleanupGlobals
+xsltFreeStylesheet
+xsltParseStylesheetFile
+xsltSaveResultToFilename

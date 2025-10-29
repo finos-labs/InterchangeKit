@@ -1,0 +1,9 @@
+xmlCreatePushParserCtxt
+xmlCtxtUseOptions
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlFreeParserCtxt
+xmlIsBlankNode
+xmlNodeListGetString
+xmlParseChunk

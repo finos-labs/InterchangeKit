@@ -1,0 +1,13 @@
+htmlCreatePushParserCtxt
+htmlFreeParserCtxt
+htmlParseChunk
+xmlCreateIOParserCtxt
+xmlCreateMemoryParserCtxt
+xmlCreatePushParserCtxt
+xmlEncodeEntitiesReentrant
+xmlFreeDoc
+xmlFreeParserCtxt
+xmlGetPredefinedEntity
+xmlNodeListGetString
+xmlParseChunk
+xmlParseDocument

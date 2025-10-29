@@ -1,0 +1,12 @@
+xmlFreeTextWriter
+xmlNewTextWriterFilename
+xmlTextWriterEndDocument
+xmlTextWriterEndElement
+xmlTextWriterStartDocument
+xmlTextWriterStartElement
+xmlTextWriterStartElementNS
+xmlTextWriterWriteAttribute
+xmlTextWriterWriteAttributeNS
+xmlTextWriterWriteElement
+xmlTextWriterWriteFormatAttribute
+xmlTextWriterWriteFormatElement

@@ -1,0 +1,10 @@
+xmlDocDumpMemoryEnc
+xmlFree
+xmlFreeDoc
+xmlFreeDocxmlStrcmp
+xmlGetUTF8Char
+xmlNodeSetContent
+xmlReadFile
+xmlReadMemory
+xmlUTF8Size
+xmlUTF8Strlen

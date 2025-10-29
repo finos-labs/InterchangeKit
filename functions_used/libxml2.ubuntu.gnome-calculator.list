@@ -1,0 +1,9 @@
+xmlInitParser
+xmlInitParserxmlXPathRegisterNs
+xmlNodeGetContent
+xmlReadFile
+xmlXPathEvalExpression
+xmlXPathEvalExpressionxmlXPathRegisterNs
+xmlXPathFreeContext
+xmlXPathNewContext
+xmlXPathRegisterNs

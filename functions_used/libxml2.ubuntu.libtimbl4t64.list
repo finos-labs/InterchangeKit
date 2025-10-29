@@ -1,0 +1,7 @@
+xmlAddChild
+xmlFreeDoc
+xmlNewComment
+xmlNewNode
+xmlNewTextChild
+xmlNodeAddContent
+xmlSetProp

@@ -1,0 +1,16 @@
+xmlCreateIOParserCtxt
+xmlFreeParserCtxt
+xmlFreeTextWriter
+xmlNewTextWriter
+xmlOutputBufferCreateIO
+xmlParseDocument
+xmlTextWriterEndAttribute
+xmlTextWriterEndDocument
+xmlTextWriterEndElement
+xmlTextWriterFullEndElement
+xmlTextWriterSetIndent
+xmlTextWriterStartAttribute
+xmlTextWriterStartElement
+xmlTextWriterWriteAttribute
+xmlTextWriterWriteFormatRaw
+xmlTextWriterWriteRaw

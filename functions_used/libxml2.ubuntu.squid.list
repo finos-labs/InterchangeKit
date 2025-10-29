@@ -1,0 +1,10 @@
+htmlEntityLookup
+htmlNewDoc
+xmlAddDocEntity
+xmlCreatePushParserCtxt
+xmlFreeParserCtxt
+xmlGetDocEntity
+xmlGetLastError
+xmlInitParser
+xmlParseChunk
+xmlSAX2GetLineNumber

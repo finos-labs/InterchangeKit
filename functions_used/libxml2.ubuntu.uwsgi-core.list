@@ -1,0 +1,15 @@
+xmlCheckVersion
+xmlCleanupParserxmlNewNode
+xmlDocDumpFormatMemory
+xmlDocGetRootElement
+xmlDocSetRootElement
+xmlFree
+xmlFreeDoc
+xmlGetProp
+xmlNewChild
+xmlNewDoc
+xmlNewNs
+xmlNewProp
+xmlNewTextChild
+xmlReadMemory
+xmlSetNs

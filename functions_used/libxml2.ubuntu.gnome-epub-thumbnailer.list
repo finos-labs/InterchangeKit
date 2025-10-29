@@ -1,0 +1,10 @@
+xmlFree
+xmlFreeDoc
+xmlGetProp
+xmlParseMemory
+xmlRecoverMemory
+xmlXPathEvalExpression
+xmlXPathFreeContext
+xmlXPathFreeObject
+xmlXPathNewContext
+xmlXPathRegisterNs

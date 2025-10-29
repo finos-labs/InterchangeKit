@@ -1,0 +1,12 @@
+xmlCheckVersion
+xmlFreeTextReader
+xmlReaderForMemory
+xmlStrlen
+xmlTextReaderConstName
+xmlTextReaderConstValue
+xmlTextReaderIsEmptyElement
+xmlTextReaderMoveToElement
+xmlTextReaderMoveToFirstAttribute
+xmlTextReaderMoveToNextAttribute
+xmlTextReaderNodeType
+xmlTextReaderRead

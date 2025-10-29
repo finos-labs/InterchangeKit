@@ -1,0 +1,10 @@
+xmlCreateIOParserCtxt
+xmlCtxtGetLastError
+xmlCtxtUseOptions
+xmlFreeDoc
+xmlFreeNode
+xmlFreeParserCtxt
+xmlInitParser
+xmlNewEntity
+xmlParseDocument
+xmlStopParser

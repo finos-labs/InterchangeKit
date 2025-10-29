@@ -1,0 +1,14 @@
+xmlBufferContent
+xmlBufferCreate
+xmlBufferFree
+xmlCleanupParser
+xmlCreateDocParserCtxt
+xmlCtxtReadDoc
+xmlFreeDoc
+xmlFreeParserCtxt
+xmlNodeDump
+xmlNodeListGetString
+xmlXPathEvalExpression
+xmlXPathFreeContext
+xmlXPathFreeObject
+xmlXPathNewContext

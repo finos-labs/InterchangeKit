@@ -1,0 +1,11 @@
+xmlDocDumpFormatMemory
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlNewText
+xmlNodeGetSpacePreserve
+xmlNodeSetSpacePreserve
+xmlReadFile
+xmlReplaceNode
+xmlStrcmp
+xmlUnlinkNode

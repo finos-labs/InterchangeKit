@@ -1,0 +1,11 @@
+xmlCtxtReadFile
+xmlDocGetRootElement
+xmlFirstElementChild
+xmlFreeDoc
+xmlFreeDocxmlURIUnescapeStringxmlStrcmp
+xmlFreeParserCtxt
+xmlGetProp
+xmlNewParserCtxt
+xmlNextElementSibling
+xmlReadMemory
+xmlStrcmp

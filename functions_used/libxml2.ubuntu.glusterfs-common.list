@@ -1,0 +1,15 @@
+xmlBufferCreateSize
+xmlBufferSetAllocationScheme
+xmlFreeDocxmlTextWriterStartElement
+xmlFreeTextWriter
+xmlNewTextWriterDoc
+xmlNewTextWriterMemory
+xmlSaveFormatFileEnc
+xmlTextWriterEndDocument
+xmlTextWriterEndElement
+xmlTextWriterFlush
+xmlTextWriterStartDocument
+xmlTextWriterStartElement
+xmlTextWriterWriteFormatAttribute
+xmlTextWriterWriteFormatElement
+xmlTextWriterWriteFormatString

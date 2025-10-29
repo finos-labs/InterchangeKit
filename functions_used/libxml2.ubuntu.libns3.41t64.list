@@ -1,0 +1,14 @@
+xmlFree
+xmlFreeTextReader
+xmlFreeTextWriter
+xmlNewTextReaderFilename
+xmlNewTextWriterFilename
+xmlTextReaderConstName
+xmlTextReaderGetAttribute
+xmlTextReaderRead
+xmlTextWriterEndDocument
+xmlTextWriterEndElement
+xmlTextWriterSetIndent
+xmlTextWriterStartDocument
+xmlTextWriterStartElement
+xmlTextWriterWriteAttribute

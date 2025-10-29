@@ -1,0 +1,4 @@
+htmlReadDoc
+xmlDocGetRootElement
+xmlFreeDoc
+xmlGetProp

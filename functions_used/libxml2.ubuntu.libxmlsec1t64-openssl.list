@@ -1,0 +1,10 @@
+xmlCharStrdup
+xmlFree
+xmlGetLastError
+xmlMalloc
+xmlNodeAddContent
+xmlNodeSetContent
+xmlStrPrintf
+xmlStrcmp
+xmlStrdup
+xmlStrlen
