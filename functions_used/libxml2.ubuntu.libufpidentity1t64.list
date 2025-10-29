@@ -1,0 +1,4 @@
+xmlCleanupParser
+xmlDocGetRootElement
+xmlFreeDoc
+xmlReadDoc

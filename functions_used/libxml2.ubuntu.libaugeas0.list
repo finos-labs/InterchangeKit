@@ -1,0 +1,7 @@
+xmlElemDump
+xmlFree
+xmlFreeNode
+xmlNewChild
+xmlNewNode
+xmlNewTextChild
+xmlSetProp

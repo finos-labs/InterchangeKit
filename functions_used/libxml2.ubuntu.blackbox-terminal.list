@@ -1,0 +1,7 @@
+xmlDocDumpMemory
+xmlDocGetRootElement
+xmlFreeDoc
+xmlGetProp
+xmlNextElementSibling
+xmlParseMemory
+xmlSetProp

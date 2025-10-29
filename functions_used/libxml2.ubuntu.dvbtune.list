@@ -1,0 +1,4 @@
+xmlCreateFileParserCtxt
+xmlFreeParserCtxt
+xmlGetPredefinedEntity
+xmlParseDocument

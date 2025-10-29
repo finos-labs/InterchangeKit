@@ -1,0 +1,5 @@
+xmlCreatePushParserCtxt
+xmlFreeDoc
+xmlFreeParserCtxt
+xmlGetProp
+xmlParseChunk

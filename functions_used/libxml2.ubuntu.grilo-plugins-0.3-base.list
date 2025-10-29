@@ -1,0 +1,16 @@
+xmlDocGetRootElement
+xmlDocGetRootElementxmlGetProp
+xmlFree
+xmlFreeDoc
+xmlFreexmlGetProp
+xmlNodeListGetString
+xmlParseMemory
+xmlReadMemory
+xmlRecoverMemory
+xmlStrcasecmp
+xmlStrcmp
+xmlStrlen
+xmlXPathEvalExpression
+xmlXPathFreeContext
+xmlXPathFreeObject
+xmlXPathNewContext

@@ -1,0 +1,16 @@
+xmlFree
+xmlFreeTextReader
+xmlInitParser
+xmlMemSetup
+xmlNewTextReaderFilename
+xmlStrEqual
+xmlTextReaderDepth
+xmlTextReaderIsEmptyElement
+xmlTextReaderMoveToNextAttribute
+xmlTextReaderName
+xmlTextReaderNodeType
+xmlTextReaderRead
+xmlTextReaderReadInnerXml
+xmlTextReaderSetErrorHandler
+xmlTextReaderSetParserProp
+xmlTextReaderValue

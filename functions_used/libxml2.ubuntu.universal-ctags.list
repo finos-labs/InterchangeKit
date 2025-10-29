@@ -1,0 +1,16 @@
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlGetLineNo
+xmlGetNodePath
+xmlLineNumbersDefault
+xmlNodeGetContent
+xmlParseMemory
+xmlPreviousElementSibling
+xmlSetGenericErrorFunc
+xmlXPathCompile
+xmlXPathCompiledEval
+xmlXPathFreeCompExpr
+xmlXPathFreeContext
+xmlXPathFreeObject
+xmlXPathNewContext

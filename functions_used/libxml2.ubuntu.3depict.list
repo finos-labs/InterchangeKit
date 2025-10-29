@@ -1,0 +1,9 @@
+xmlCleanupParser
+xmlCtxtReadFile
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlFreeParserCtxt
+xmlGetProp
+xmlNewParserCtxt
+xmlStrcmp

@@ -1,0 +1,14 @@
+xmlFree
+xmlFreeTextReader
+xmlGetLastError
+xmlNewTextReaderFilename
+xmlReaderForIO
+xmlSetGenericErrorFunc
+xmlStrcasecmp
+xmlStrcasestr
+xmlStrdup
+xmlTextReaderGetParserLineNumber
+xmlTextReaderName
+xmlTextReaderNodeType
+xmlTextReaderRead
+xmlTextReaderValue

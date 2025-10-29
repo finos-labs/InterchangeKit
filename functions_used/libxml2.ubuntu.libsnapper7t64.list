@@ -1,0 +1,15 @@
+initGenericErrorDefaultFunc
+xmlDocFormatDump
+xmlDocGetRootElement
+xmlDocSetRootElement
+xmlFree
+xmlFreeDoc
+xmlGetNoNsProp
+xmlNewChild
+xmlNewDoc
+xmlNewNode
+xmlNewTextChild
+xmlNodeGetContent
+xmlReadFd
+xmlReadFile
+xmlSaveFormatFile

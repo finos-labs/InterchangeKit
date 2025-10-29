@@ -1,0 +1,14 @@
+xmlCheckVersion
+xmlCleanupParser
+xmlCtxtReadFile
+xmlFreeDoc
+xmlFreeParserCtxt
+xmlInitializeCatalog
+xmlMemoryDump
+xmlNewParserCtxt
+xmlOutputBufferClose
+xmlOutputBufferCreateIO
+xsltApplyStylesheet
+xsltFreeStylesheet
+xsltParseStylesheetFile
+xsltSaveResultTo

@@ -1,0 +1,16 @@
+xmlBufferAdd
+xmlBufferContent
+xmlBufferCreate
+xmlCopyNode
+xmlDocGetRootElement
+xmlDocSetRootElement
+xmlFreeDoc
+xmlFreeNode
+xmlFreeNodeList
+xmlNewDoc
+xmlNewNode
+xmlNodeDumpOutput
+xmlOutputBufferClose
+xmlOutputBufferCreateBuffer
+xmlParseInNodeContext
+xmlReadMemory

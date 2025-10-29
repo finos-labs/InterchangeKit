@@ -1,0 +1,8 @@
+xmlCleanupParser
+xmlFindCharEncodingHandler
+xmlFree
+xmlMalloc
+xmlTextWriterEndElement
+xmlTextWriterStartElement
+xmlTextWriterWriteElement
+xmlTextWriterWriteFormatElement

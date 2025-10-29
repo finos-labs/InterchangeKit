@@ -1,0 +1,7 @@
+htmlCreatePushParserCtxt
+htmlFreeParserCtxthtmlTagLookup
+htmlParseChunk
+xmlCreatePushParserCtxt
+xmlFreeParserCtxt
+xmlParseChunk
+xmlSubstituteEntitiesDefault

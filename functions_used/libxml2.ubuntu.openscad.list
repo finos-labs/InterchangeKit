@@ -1,0 +1,14 @@
+xmlFree
+xmlFreeTextReader
+xmlNewTextReaderFilename
+xmlReaderForFile
+xmlReaderForIO
+xmlStrdup
+xmlTextReaderAttributeCount
+xmlTextReaderIsEmptyElement
+xmlTextReaderMoveToAttributeNo
+xmlTextReaderName
+xmlTextReaderNodeType
+xmlTextReaderRead
+xmlTextReaderSetParserProp
+xmlTextReaderValue

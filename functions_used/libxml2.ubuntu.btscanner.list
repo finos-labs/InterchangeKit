@@ -1,0 +1,10 @@
+xmlCtxtReadFile
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlFreeParserCtxt
+xmlGetProp
+xmlNewParserCtxt
+xmlSetGenericErrorFunc
+xmlSetStructuredErrorFunc
+xmlStrncmp

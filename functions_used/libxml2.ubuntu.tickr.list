@@ -1,0 +1,11 @@
+xmlCheckVersion
+xmlCleanupParser
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlGetLastError
+xmlGetProp
+xmlInitParser
+xmlNodeListGetString
+xmlParseFile
+xmlStrcmp

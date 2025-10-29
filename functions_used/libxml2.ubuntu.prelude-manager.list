@@ -1,0 +1,17 @@
+xmlAllocOutputBuffer
+xmlCleanupParser
+xmlDocSetRootElement
+xmlFreeDoc
+xmlFreeDtd
+xmlInitParser
+xmlNewChild
+xmlNewDoc
+xmlNewDocNode
+xmlNewTextChild
+xmlNodeDumpOutput
+xmlOutputBufferClose
+xmlOutputBufferFlush
+xmlOutputBufferWriteString
+xmlParseDTD
+xmlSetProp
+xmlValidateDtd

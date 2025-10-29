@@ -1,0 +1,16 @@
+xmlAddChild
+xmlDocDumpMemoryEnc
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlGetProp
+xmlNewChild
+xmlNewText
+xmlNewTextChild
+xmlNodeListGetString
+xmlParseMemory
+xmlSetProp
+xmlStrcmp
+xmlXPathEvalExpression
+xmlXPathFreeContext
+xmlXPathNewContext

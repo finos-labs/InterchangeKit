@@ -1,0 +1,13 @@
+xmlCheckVersion
+xmlFreeTextWriter
+xmlNewTextWriterFilename
+xmlTextWriterEndAttribute
+xmlTextWriterEndDocument
+xmlTextWriterEndElement
+xmlTextWriterStartAttribute
+xmlTextWriterStartDocument
+xmlTextWriterStartElement
+xmlTextWriterWriteAttribute
+xmlTextWriterWriteBase64
+xmlTextWriterWriteFormatAttribute
+xmlTextWriterWriteString

@@ -1,0 +1,11 @@
+xmlCreateFileParserCtxt
+xmlDocGetRootElement
+xmlFreeDoc
+xmlFreeParserCtxt
+xmlGetProp
+xmlNodeListGetString
+xmlParseDocument
+xmlParseFile
+xmlStrcmp
+xmlStrlen
+xmlSubstituteEntitiesDefault

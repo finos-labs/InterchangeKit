@@ -1,0 +1,11 @@
+xmlCheckVersion
+xmlCleanupParser
+xmlFreeTextReader
+xmlInitParser
+xmlReaderForFd
+xmlTextReaderConstName
+xmlTextReaderDepth
+xmlTextReaderGetAttribute
+xmlTextReaderIsEmptyElement
+xmlTextReaderNodeType
+xmlTextReaderRead
