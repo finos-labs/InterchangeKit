@@ -1,0 +1,9 @@
+xmlCleanupParser
+xmlDocSetRootElement
+xmlFreeDoc
+xmlGetProp
+xmlNewChild
+xmlNewDoc
+xmlNewNode
+xmlNewProp
+xmlSaveFormatFileEnc

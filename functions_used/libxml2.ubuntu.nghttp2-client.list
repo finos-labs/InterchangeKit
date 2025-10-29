@@ -1,0 +1,4 @@
+htmlCreatePushParserCtxt
+htmlFreeParserCtxt
+htmlParseChunk
+xmlBuildURI

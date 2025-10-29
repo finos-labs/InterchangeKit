@@ -1,0 +1,9 @@
+xmlCreatePushParserCtxt
+xmlFreeParserCtxt
+xmlParseChunk
+xmlStrEqual
+xmlXPathEvalExpression
+xmlXPathFreeContext
+xmlXPathFreeObject
+xmlXPathNewContext
+xmlXPathRegisterNs

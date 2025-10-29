@@ -1,0 +1,14 @@
+xmlAddChild
+xmlCtxtReadFile
+xmlDocCopyNode
+xmlFree
+xmlFreeDoc
+xmlFreeParserCtxt
+xmlGetProp
+xmlNewParserCtxt
+xmlNodeGetContent
+xmlStrcmp
+xmlXPathEvalExpression
+xmlXPathFreeContext
+xmlXPathFreeObject
+xmlXPathNewContext

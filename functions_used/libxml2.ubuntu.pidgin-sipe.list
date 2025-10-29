@@ -1,0 +1,5 @@
+xmlC14NDocDumpMemory
+xmlFree
+xmlFreeDoc
+xmlReadMemory
+xmlSAXUserParseMemory

@@ -1,0 +1,13 @@
+xmlAddChild
+xmlDocFormatDump
+xmlDocGetRootElement
+xmlDocSetRootElement
+xmlEncodeEntitiesReentrant
+xmlFreeDoc
+xmlFreeNode
+xmlNewDoc
+xmlNewNode
+xmlNewTextChild
+xmlNodeGetContent
+xmlNodeSetContent
+xmlReadMemory

@@ -1,0 +1,17 @@
+xmlAddChild
+xmlBufferCreate
+xmlBufferFree
+xmlDocSetRootElement
+xmlFreeDoc
+xmlFreeNode
+xmlFreeTextWriter
+xmlGetCharEncodingName
+xmlNewDoc
+xmlNewNode
+xmlNewNs
+xmlNewProp
+xmlNewTextWriterMemory
+xmlNodeDump
+xmlTextWriterEndDocument
+xmlTextWriterFlush
+xmlTextWriterStartDocument

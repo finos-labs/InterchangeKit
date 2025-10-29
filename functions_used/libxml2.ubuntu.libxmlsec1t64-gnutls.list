@@ -1,0 +1,8 @@
+xmlFree
+xmlGetLastError
+xmlMalloc
+xmlStrEqual
+xmlStrPrintf
+xmlStrcasecmp
+xmlStrdup
+xmlStrlen

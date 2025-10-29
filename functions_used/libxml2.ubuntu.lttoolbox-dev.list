@@ -1,0 +1,6 @@
+initGenericErrorDefaultFunc
+xmlCleanupParser
+xmlCleanupParserinitGenericErrorDefaultFunc
+xmlFreeTextReader
+xmlReaderForFile
+xmlTextReaderRead

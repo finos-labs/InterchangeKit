@@ -1,0 +1,17 @@
+xmlCleanupParser
+xmlDocGetRootElement
+xmlFreeDoc
+xmlFreeDocxmlXPathFreeObject
+xmlReadFile
+xmlSchemaFree
+xmlSchemaFreeParserCtxt
+xmlSchemaFreeValidCtxt
+xmlSchemaNewDocParserCtxt
+xmlSchemaNewValidCtxt
+xmlSchemaParse
+xmlSchemaValidateDoc
+xmlSetGenericErrorFunc
+xmlXPathEvalExpression
+xmlXPathFreeContext
+xmlXPathNewContext
+xmlXPathRegisterNs

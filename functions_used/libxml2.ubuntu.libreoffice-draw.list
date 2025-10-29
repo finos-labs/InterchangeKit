@@ -1,0 +1,10 @@
+xmlFreeTextWriter
+xmlNewTextWriterFilename
+xmlTextWriterEndDocument
+xmlTextWriterEndElement
+xmlTextWriterSetIndent
+xmlTextWriterSetIndentString
+xmlTextWriterStartDocument
+xmlTextWriterStartElement
+xmlTextWriterWriteAttribute
+xmlTextWriterWriteFormatAttribute

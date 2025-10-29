@@ -1,0 +1,14 @@
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlGetLastError
+xmlGetProp
+xmlNodeGetContent
+xmlParseMemory
+xmlReadFile
+xmlResetError
+xmlResetLastError
+xmlSaveFormatFile
+xmlStrcasecmp
+xmlStrcmp
+xmlXIncludeProcessFlags

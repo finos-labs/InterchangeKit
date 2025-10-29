@@ -1,0 +1,17 @@
+xmlCleanupParser
+xmlDocDumpFormatMemory
+xmlFreeDoc
+xmlHasProp
+xmlInitParser
+xmlKeepBlanksDefault
+xmlNewChild
+xmlNewDoc
+xmlNodeSetContent
+xmlReadFd
+xmlReadFile
+xmlSetProp
+xmlStrcmp
+xmlXPathEvalExpression
+xmlXPathFreeContext
+xmlXPathFreeObject
+xmlXPathNewContext

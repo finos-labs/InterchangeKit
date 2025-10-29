@@ -1,0 +1,12 @@
+xmlCtxtReadDoc
+xmlFreeDoc
+xmlNewParserCtxt
+xmlRelaxNGFree
+xmlRelaxNGFreeParserCtxt
+xmlRelaxNGFreeValidCtxt
+xmlRelaxNGNewParserCtxt
+xmlRelaxNGNewValidCtxt
+xmlRelaxNGParse
+xmlRelaxNGValidateDoc
+xmlSetGenericErrorFunc
+xmlSetStructuredErrorFunc

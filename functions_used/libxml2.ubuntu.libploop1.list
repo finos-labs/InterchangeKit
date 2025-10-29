@@ -1,0 +1,14 @@
+xmlCheckVersion
+xmlDocFormatDump
+xmlDocGetRootElement
+xmlFreeDoc
+xmlFreeTextWriter
+xmlNewDoc
+xmlNewTextWriterTree
+xmlReadFile
+xmlStrcmp
+xmlTextWriterEndElement
+xmlTextWriterStartDocument
+xmlTextWriterStartElement
+xmlTextWriterWriteElement
+xmlTextWriterWriteFormatElement

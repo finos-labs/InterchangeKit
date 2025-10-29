@@ -1,0 +1,6 @@
+xmlFree
+xmlFreeNode
+xmlNodeGetContent
+xmlNodeGetLang
+xmlStrcmp
+xmlUnlinkNode

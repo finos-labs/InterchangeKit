@@ -1,0 +1,15 @@
+xmlFree
+xmlFreeTextReader
+xmlReaderForIO
+xmlStrEqual
+xmlStrlen
+xmlTextReaderConstName
+xmlTextReaderConstValue
+xmlTextReaderDepth
+xmlTextReaderGetAttribute
+xmlTextReaderIsEmptyElement
+xmlTextReaderMoveToNextAttribute
+xmlTextReaderNodeType
+xmlTextReaderRead
+xmlTextReaderSetErrorHandler
+xmlTextReaderValue

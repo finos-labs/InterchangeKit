@@ -1,0 +1,6 @@
+xmlDocGetRootElement
+xmlFreeDoc
+xmlGetProp
+xmlParseFile
+xmlParseMemory
+xmlStrcmp

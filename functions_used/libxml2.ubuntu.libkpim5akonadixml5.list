@@ -1,0 +1,10 @@
+xmlFreeDoc
+xmlParseMemory
+xmlReadFile
+xmlSchemaFree
+xmlSchemaFreeParserCtxt
+xmlSchemaFreeValidCtxt
+xmlSchemaNewDocParserCtxt
+xmlSchemaNewValidCtxt
+xmlSchemaParse
+xmlSchemaValidateDoc

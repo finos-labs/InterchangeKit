@@ -1,0 +1,7 @@
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlGetProp
+xmlParseFile
+xmlReadMemory
+xmlSetGenericErrorFunc

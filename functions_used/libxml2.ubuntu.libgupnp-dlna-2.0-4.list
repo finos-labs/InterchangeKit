@@ -1,0 +1,15 @@
+xmlFree
+xmlFreeTextReader
+xmlNewTextReaderFilename
+xmlRelaxNGFree
+xmlRelaxNGFreeParserCtxt
+xmlRelaxNGNewParserCtxt
+xmlRelaxNGParse
+xmlStrEqual
+xmlStrdup
+xmlTextReaderGetAttribute
+xmlTextReaderName
+xmlTextReaderNodeType
+xmlTextReaderRead
+xmlTextReaderRelaxNGSetSchema
+xmlTextReaderValue

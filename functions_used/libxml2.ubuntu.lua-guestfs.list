@@ -1,0 +1,8 @@
+xmlBufferFree
+xmlFree
+xmlFreeDoc
+xmlFreeTextWriter
+xmlFreeURI
+xmlFreexmlFreeTextWriter
+xmlXPathFreeContext
+xmlXPathFreeObject

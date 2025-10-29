@@ -1,0 +1,15 @@
+xmlBufferContent
+xmlBufferCreate
+xmlBufferFree
+xmlDocDumpFormatMemoryEnc
+xmlDocGetRootElement
+xmlDocSetRootElement
+xmlFree
+xmlNewDoc
+xmlNewDocNode
+xmlNodeDump
+xmlXPathEval
+xmlXPathFreeContext
+xmlXPathFreeObject
+xmlXPathNewContext
+xmlXPathRegisterNs

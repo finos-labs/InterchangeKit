@@ -1,0 +1,8 @@
+xmlCleanupParser
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlGetProp
+xmlNodeGetContent
+xmlNodeListGetString
+xmlReadMemory

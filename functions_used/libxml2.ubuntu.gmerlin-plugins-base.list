@@ -1,0 +1,9 @@
+xmlAddChild
+xmlDocSetRootElement
+xmlFreeDoc
+xmlNewDoc
+xmlNewDocRawNode
+xmlNewText
+xmlNewTextChild
+xmlParseFile
+xmlSaveFile

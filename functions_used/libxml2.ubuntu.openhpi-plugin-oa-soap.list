@@ -1,0 +1,10 @@
+xmlCheckVersion
+xmlCopyDoc
+xmlCreatePushParserCtxt
+xmlDocGetRootElement
+xmlFreeDoc
+xmlFreeParserCtxt
+xmlParseChunk
+xmlStrcmp
+xmlStrlen
+xmlStrncmp

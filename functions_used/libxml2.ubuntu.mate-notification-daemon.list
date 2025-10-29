@@ -1,0 +1,15 @@
+xmlBufferCreate
+xmlBufferFree
+xmlCleanupParser
+xmlDocGetRootElement
+xmlFreeDoc
+xmlFreeNode
+xmlFreeNodexmlNodeDump
+xmlInitParser
+xmlNodeDump
+xmlReadMemory
+xmlUnlinkNode
+xmlXPathEvalExpression
+xmlXPathFreeContext
+xmlXPathFreeObject
+xmlXPathNewContext

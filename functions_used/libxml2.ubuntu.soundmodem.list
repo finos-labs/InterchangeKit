@@ -1,0 +1,10 @@
+xmlFreeDoc
+xmlFreeDocxmlNewDoc
+xmlFreeNode
+xmlGetProp
+xmlNewChild
+xmlNewDocNode
+xmlParseFile
+xmlSaveFormatFile
+xmlSetProp
+xmlUnlinkNode

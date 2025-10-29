@@ -1,0 +1,10 @@
+xmlCtxtReadDoc
+xmlFreeDoc
+xmlFreeParserCtxt
+xmlFreeURI
+xmlNewParserCtxt
+xmlParseURI
+xmlXPathEval
+xmlXPathFreeContext
+xmlXPathFreeObjectxmlFreeURI
+xmlXPathNewContext

@@ -1,0 +1,17 @@
+xmlBufferAdd
+xmlBufferContent
+xmlBufferCreate
+xmlBufferFree
+xmlBufferLength
+xmlFree
+xmlFreeDoc
+xmlMalloc
+xmlMemStrdup
+xmlNanoHTTPAuthHeader
+xmlNanoHTTPClose
+xmlNanoHTTPMethod
+xmlNanoHTTPRead
+xmlNanoHTTPReturnCode
+xmlNodeGetContent
+xmlParseMemory
+xmlSetGenericErrorFunc
