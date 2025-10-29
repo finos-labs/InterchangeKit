@@ -1,0 +1,9 @@
+xmlCtxtReadFile
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlFreeParserCtxt
+xmlGetProp
+xmlNewParserCtxt
+xmlNodeIsText
+xmlStrEqual

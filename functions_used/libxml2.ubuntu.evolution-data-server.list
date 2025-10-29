@@ -1,0 +1,11 @@
+xmlDocDumpMemory
+xmlDocGetRootElement
+xmlDocGetRootElementxmlNodeGetContent
+xmlDocSetRootElement
+xmlFree
+xmlFreeDoc
+xmlNewChild
+xmlNewDoc
+xmlNewDocNode
+xmlNewNs
+xmlReadMemory

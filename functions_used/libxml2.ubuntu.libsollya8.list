@@ -1,0 +1,16 @@
+xmlCheckVersion
+xmlCleanupParser
+xmlFreeTextReader
+xmlMemSetup
+xmlMemoryDump
+xmlReaderForFile
+xmlStrlen
+xmlTextReaderConstName
+xmlTextReaderConstValue
+xmlTextReaderDepth
+xmlTextReaderGetAttribute
+xmlTextReaderHasAttributes
+xmlTextReaderHasValue
+xmlTextReaderIsEmptyElement
+xmlTextReaderNodeType
+xmlTextReaderRead

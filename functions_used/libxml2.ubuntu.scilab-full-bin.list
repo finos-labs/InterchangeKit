@@ -1,0 +1,12 @@
+xmlFreeDoc
+xmlHasProp
+xmlKeepBlanksDefault
+xmlParseFile
+xmlSaveFormatFile
+xmlStrEqualxmlXPathFreeObject
+xmlStrdup
+xmlThrDefIndentTreeOutput
+xmlXPathEval
+xmlXPathFreeContext
+xmlXPathFreeObject
+xmlXPathNewContext

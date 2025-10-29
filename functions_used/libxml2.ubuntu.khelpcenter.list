@@ -1,0 +1,6 @@
+htmlReadMemory
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlNodeGetContent
+xmlStrcmp

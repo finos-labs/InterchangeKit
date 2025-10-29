@@ -1,0 +1,15 @@
+xmlFree
+xmlFreeDoc
+xmlLineNumbersDefault
+xmlParseMemory
+xmlSAXUserParseMemory
+xmlSchemaFree
+xmlSchemaFreeParserCtxt
+xmlSchemaFreeValidCtxt
+xmlSchemaNewMemParserCtxt
+xmlSchemaNewValidCtxt
+xmlSchemaParse
+xmlSchemaSetParserStructuredErrors
+xmlSchemaSetValidStructuredErrors
+xmlSchemaValidateDoc
+xmlSetStructuredErrorFunc

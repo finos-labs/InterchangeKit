@@ -1,0 +1,13 @@
+xmlAddChild
+xmlCopyNode
+xmlFreeDoc
+xmlFreeNode
+xmlGetLastError
+xmlNewChild
+xmlNewProp
+xmlNewTextChild
+xmlNodeSetContent
+xmlSetNs
+xmlSetProp
+xmlStrcmp
+xmlUnlinkNode

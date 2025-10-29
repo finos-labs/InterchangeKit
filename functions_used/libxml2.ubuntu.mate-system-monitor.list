@@ -1,0 +1,6 @@
+xmlFreeDoc
+xmlParseFile
+xmlXPathEvalExpression
+xmlXPathFreeContext
+xmlXPathFreeObject
+xmlXPathNewContext

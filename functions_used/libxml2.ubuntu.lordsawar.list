@@ -1,0 +1,10 @@
+xmlCharStrdup
+xmlCleanupParser
+xmlFreeDoc
+xmlParseFile
+xsltApplyStylesheet
+xsltCleanupGlobals
+xsltCleanupGlobalsxmlCleanupParser
+xsltFreeStylesheet
+xsltParseStylesheetFile
+xsltSaveResultToFilename

@@ -1,0 +1,17 @@
+xmlCheckVersion
+xmlFirstElementChild
+xmlFree
+xmlFreeTextReader
+xmlGetProp
+xmlInitParser
+xmlNewTextReaderFilename
+xmlNextElementSibling
+xmlReaderForIO
+xmlReaderForMemory
+xmlStrEqual
+xmlTextReaderExpand
+xmlTextReaderGetAttribute
+xmlTextReaderName
+xmlTextReaderNext
+xmlTextReaderNodeType
+xmlTextReaderRead

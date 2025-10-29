@@ -1,0 +1,11 @@
+xmlCtxtReadFile
+xmlFreeDoc
+xmlFreeParserCtxt
+xmlInitializeCatalog
+xmlNewParserCtxt
+xmlOutputBufferClose
+xmlOutputBufferCreateIO
+xsltApplyStylesheet
+xsltFreeStylesheet
+xsltParseStylesheetFile
+xsltSaveResultTo

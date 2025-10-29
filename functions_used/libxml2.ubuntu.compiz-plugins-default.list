@@ -1,0 +1,17 @@
+xmlCleanupParser
+xmlDocGetRootElement
+xmlDocSetRootElement
+xmlFree
+xmlFreeDoc
+xmlGetProp
+xmlNewChild
+xmlNewDoc
+xmlNewNode
+xmlNewProp
+xmlParseFile
+xmlSaveClose
+xmlSaveDoc
+xmlSaveToFilename
+xmlStrcmp
+xmlXPathCastNumberToString
+xmlXPathCastStringToNumber

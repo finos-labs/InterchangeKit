@@ -1,0 +1,15 @@
+xmlAddChild
+xmlAddPrevSibling
+xmlDocGetRootElement
+xmlDocSetRootElement
+xmlFreeDoc
+xmlFreeNode
+xmlNewDoc
+xmlNewDocComment
+xmlNewProp
+xmlNodeSetContent
+xmlParseInNodeContext
+xmlSaveFormatFileEnc
+xmlUnlinkNode
+xmlXPathFreeContext
+xmlXPathRegisterNs

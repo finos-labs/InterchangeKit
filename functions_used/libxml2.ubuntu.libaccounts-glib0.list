@@ -1,0 +1,13 @@
+xmlFree
+xmlFreeTextReader
+xmlReaderForMemory
+xmlTextReaderByteConsumed
+xmlTextReaderConstBaseUri
+xmlTextReaderConstName
+xmlTextReaderConstValue
+xmlTextReaderGetAttribute
+xmlTextReaderHasAttributes
+xmlTextReaderIsEmptyElement
+xmlTextReaderNext
+xmlTextReaderNodeType
+xmlTextReaderRead

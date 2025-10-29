@@ -1,0 +1,15 @@
+xmlCharStrdup
+xmlDocDumpMemory
+xmlDocGetRootElement
+xmlDocSetRootElement
+xmlFree
+xmlFreeDoc
+xmlFreeNode
+xmlIsBlankNode
+xmlNewChild
+xmlNewDoc
+xmlNewDocNode
+xmlNewTextChild
+xmlNodeGetContent
+xmlParseMemory
+xmlUnlinkNode

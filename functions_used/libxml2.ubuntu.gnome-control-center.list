@@ -1,0 +1,14 @@
+xmlCreateIntSubset
+xmlDocGetRootElement
+xmlDocSetRootElement
+xmlFree
+xmlFreeDoc
+xmlGetProp
+xmlKeepBlanksDefault
+xmlNewChild
+xmlNewDoc
+xmlNewNode
+xmlNewTextChild
+xmlNodeGetLang
+xmlParseFile
+xmlSaveFormatFile

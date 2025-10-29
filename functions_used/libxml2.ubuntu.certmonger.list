@@ -1,0 +1,10 @@
+xmlCharStrdup
+xmlFree
+xmlFreeDoc
+xmlFreeDocxmlGetNodePath
+xmlGetNodePath
+xmlParseMemory
+xmlXPathEval
+xmlXPathFreeContext
+xmlXPathFreeObject
+xmlXPathNewContext

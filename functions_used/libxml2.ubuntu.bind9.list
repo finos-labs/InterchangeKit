@@ -1,0 +1,15 @@
+xmlCleanupParser
+xmlDocDumpFormatMemoryEnc
+xmlFree
+xmlFreeDoc
+xmlFreeTextWriter
+xmlInitParser
+xmlNewTextWriterDoc
+xmlTextWriterEndDocument
+xmlTextWriterEndElement
+xmlTextWriterStartDocument
+xmlTextWriterStartElement
+xmlTextWriterWriteAttribute
+xmlTextWriterWriteFormatString
+xmlTextWriterWritePI
+xmlTextWriterWriteString

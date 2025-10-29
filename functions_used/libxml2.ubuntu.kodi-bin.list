@@ -1,0 +1,9 @@
+xmlFree
+xmlFreeDoc
+xmlParseMemory
+xmlSubstituteEntitiesDefault
+xsltApplyStylesheet
+xsltFreeStylesheet
+xsltParseStylesheetDoc
+xsltSaveResultToString
+xsltSetGenericErrorFunc

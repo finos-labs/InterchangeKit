@@ -1,0 +1,8 @@
+xmlCharStrdup
+xmlCheckVersion
+xmlCleanupParser
+xmlDocGetRootElement
+xmlFreeDoc
+xmlReadFile
+xmlReadMemory
+xmlStrcmp

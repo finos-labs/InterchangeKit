@@ -1,0 +1,13 @@
+xmlAddChild
+xmlCheckVersion
+xmlDocDumpMemoryEnc
+xmlDocGetRootElement
+xmlDocSetRootElement
+xmlFree
+xmlFreeDoc
+xmlNewDoc
+xmlNewNode
+xmlNewText
+xmlNodeGetContent
+xmlReadMemory
+xmlSetGenericErrorFunc

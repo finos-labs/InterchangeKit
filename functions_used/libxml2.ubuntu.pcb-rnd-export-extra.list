@@ -1,0 +1,4 @@
+xmlDocGetRootElement
+xmlFreeDoc
+xmlReadFile
+xmlStrcmp

@@ -1,0 +1,14 @@
+xmlBufferCreate
+xmlBufferFree
+xmlFreeTextWriter
+xmlNewTextWriterMemory
+xmlTextWriterEndAttribute
+xmlTextWriterEndDocument
+xmlTextWriterEndElement
+xmlTextWriterStartAttribute
+xmlTextWriterStartDocument
+xmlTextWriterStartElement
+xmlTextWriterWriteBinHex
+xmlTextWriterWriteFormatAttribute
+xmlTextWriterWriteFormatElement
+xmlTextWriterWriteString

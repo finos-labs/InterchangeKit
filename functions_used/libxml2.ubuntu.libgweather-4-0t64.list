@@ -1,0 +1,10 @@
+xmlDocGetRootElement
+xmlFree
+xmlFreeDoc
+xmlGetProp
+xmlNodeGetContent
+xmlParseMemory
+xmlXPathEval
+xmlXPathFreeContext
+xmlXPathFreeObject
+xmlXPathNewContext

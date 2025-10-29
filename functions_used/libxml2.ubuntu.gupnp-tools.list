@@ -1,0 +1,4 @@
+xmlDocDumpFormatMemoryEnc
+xmlFreeDocxmlNodeSetContent
+xmlRecoverMemory
+xmlSaveFile

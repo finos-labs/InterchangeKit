@@ -1,0 +1,8 @@
+xmlCleanupParser
+xmlCreateFileParserCtxt
+xmlCreateMemoryParserCtxt
+xmlFreeDoc
+xmlFreeParserCtxt
+xmlGetPredefinedEntity
+xmlInitParser
+xmlParseDocument
