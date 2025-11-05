@@ -4,7 +4,7 @@
 
 InterchangeKit is building a memory-safe XML toolkit for use in native binary applications. The first interface exposed for applications will be the libxml2 interface as specified in ISO/IEC 23360-1 (the Linux Standard Base spec).
 
-InterchangeKit does not currently ship any artefacts. Please see the roadmap items below and the open issues for where to get involved in building the first release.
+InterchangeKit does not currently ship any artefacts. Please see the roadmap items below, the [FAQ](./FAQ.md) and the open issues for where to get involved in building the first release.
 
 ## Roadmap
 
