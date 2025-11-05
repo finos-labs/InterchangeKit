@@ -9,7 +9,7 @@ InterchangeKit does not currently ship any artefacts. Please see the roadmap ite
 ## Roadmap
 
 1. The first activity for the project is to collect collaborators. If you are interested in contributing to the project, feel it could be of use to you, or just want to watch how the project progresses, join our #interchange-kit channel on the FINOS Slack
-1. To determine the scope for initial release, build a list of functions used by projects which currently depend on libxml2. An initial data extract from open source software is in the [functions_used directory of this repository](./functions_used). These lists are probably quite different from the libxml2 functions are used to create applications in industry. If you are willing to share the information about what your applicatoins use, please submit a list to that directory.
+1. To determine the scope for initial release, build a list of functions used by projects which currently depend on libxml2. An initial data extract from open source software is in the [functions_used directory of this repository](./functions_used). These lists are probably quite different from the libxml2 functions are used to create applications in industry. If you are willing to share the information about what your applications use, please submit a list to that directory.
 1. Analyze the collected data on symbol use to determine the minimal scope for a first release.
 
 ## Contributing
