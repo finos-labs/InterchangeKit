@@ -3,6 +3,9 @@
 ### Why build a new library for XML?
 The C and C++ XML libraries including libxml2, libexpat and Apache Xerces-c++ have issues with recruiting and retaining maintainers. A major source of maintainer load and frustration is reports of vulnerabilities (mainly denial of service lately) from memory management or access issues. Current memory-safe implementations in Rust, which will avoid at least some of the memory management issues affecting the C and C++ libraries, are currently limited in scope, and roxmltree and xml-rs are also experiencing maintainer churn.
 
+### When you say "memory safe" you mean built in Rust, right?
+Yes. The library is not intended to only be for use by other Rust programs, though. All features will include bridge code and headers for use in C or C++ programs, and wrappers of those in languages like Python.
+
 ### Why a FINOS project?
 To ensure that the project has long term maintainers, we aim to build a community of contributors from organisations where XML data exchange is a creator of, or close to the creation of, value. Financial institutions, and maybe their regulators, fit this bill. This, admittedly bold, claim about where this project can endure where others have fizzled is based on:
 
